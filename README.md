@@ -3,6 +3,9 @@
 
 * HTML准备
 ```html
+<link href="/view//css/bootstrap.min.css" rel="stylesheet" media="screen">
+<script src="/view//js/jquery-1.8.3.min.js"></script>
+<script src="/view//js/bootstrap.min.js"></script>
 <input type="text" class="input-text">
 ```
 
